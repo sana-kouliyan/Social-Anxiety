@@ -9,3 +9,9 @@ This dataset examines factors linked to social anxiety, including lifestyle, hea
 - Target Variables: is_Anxious
 
   ##This project was provided to us by the Quera team
+
+Team Members:
+- Jalal Mahabadi
+- Seyed Mahdi Fatemi
+- Mohammadreza Mahdavi
+- Sana Kouliyan
